@@ -1,5 +1,10 @@
 # 📝 KANBAN BOARD
 
+
+
+https://github.com/user-attachments/assets/6aa8f840-99a5-414d-a666-4307cb595a4e
+
+
 A Kanban Board web application with drag-and-drop functionality, real-time search, and MongoDB integration to manage tasks efficiently.
 
 ---
@@ -126,8 +131,4 @@ Open [http://localhost:5173](http://localhost:5173) in your browser (Vite defaul
 Contributions are welcome! Feel free to fork this repo and submit a pull request. 🚀
 
 ---
-
-## 📄 LICENSE
-
-This project is licensed under the **MIT License**.
 
